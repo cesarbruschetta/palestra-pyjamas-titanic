@@ -13,6 +13,8 @@ Autor: Cesar Bruschetta
 
 [Live PyJamas - Pyjamas Conf 2019](https://www.youtube.com/watch?v=38-Oz8CocIQ)
 
+[Apresentação](https://www.slideshare.net/cesarbruschetta/fazendo-analise-de-dados-s-com-python-just-python)
+
 [Pyjamas](https://pyjamas.live/)
 
 ### Redes Sociais
